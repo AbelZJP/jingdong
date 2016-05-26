@@ -1,0 +1,68 @@
+﻿<div class="fz_Top">
+	<ul>
+		<li>
+			<a href="">
+				<img src="images/568f83f6N0af89a34.jpg" alt="">
+				<span>蜘蛛王男棉鞋 真皮单棉商务正装皮鞋</span>
+			</a>
+			<h4>￥319.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/56c3cb70N85e5c319.jpg" alt="">
+				<span>CELE策乐皮鞋 男士皮鞋商务休闲皮鞋</span>
+			</a>
+			<h4>￥199.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/56aeb645N9ad7719a.jpg" alt="">
+				<span>Zero意大利零度休闲鞋 男士休闲皮鞋</span>
+			</a>
+			<h4>￥659.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/56c3cf39N7c6ba231.jpg" alt="">
+				<span>花花公子  情侣款精选新品时尚休闲鞋</span>
+			</a>
+			<h4>￥214.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/56c2e214N7b586063.jpg" alt="">
+				<span>星期六  牛皮铆钉圆头低跟切尔西短靴女鞋</span>
+			</a>
+			<h4>￥699.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/56c2e4b6N64ddd1c0.jpg" alt="">
+				<span>星期六  牛皮铆钉圆头低跟切尔西短靴女鞋</span>
+			</a>
+			<h4>￥168.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/54d3099eN28605011.jpg" alt="">
+				<span>接吻猫 中跟蝴蝶结圆头鞋通勤女鞋浅扣单鞋</span>
+			</a>
+			<h4>￥399.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/56c2930cNfdd54e1d.jpg" alt="">
+				<span>DG迪杰 细跟尖头单鞋通勤职业真皮中跟</span>
+			</a>
+			<h4>￥439.00</h4>
+		</li>
+	</ul>
+</div>
+<div class="fz_bottom">
+	<ul>
+		<li><a href=""><img src="images/56c47873N1be06b59.jpg" alt=""></a></li>
+		<li><a href=""><img src="images/56c4787bN54119ad6.jpg" alt=""></a></li>
+		<li><a href=""><img src="images/56c47884N6d7e9487.jpg" alt=""></a></li>
+		<li><a href=""><img src="images/56c4788dNe588918c.jpg" alt=""></a></li>
+	</ul>
+</div> 

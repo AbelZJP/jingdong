@@ -1,0 +1,68 @@
+﻿<div class="fz_Top">
+	<ul>
+		<li>
+			<a href="">
+				<img src="images/56a879c4N7e10e1f4.jpg" alt="">
+                		<span>G－STAR RAW  男士白色尖领薄衬衫</span>
+                	</a>
+                	<h4>￥698.00</h4>
+                </li>
+                <li>
+                	<a href="">
+                		<img src="images/568f2fc2N322a5c11.jpg" alt="">
+                		<span>七匹狼  男士纯棉多色翻领POLO衫</span>
+                	</a>
+                	<h4>￥179.00</h4>
+                </li>
+                <li>
+                	<a href="">
+                		<img src="images/56932784Nca6d1789.jpg" alt="">
+                		<span>真维斯男装 春装 小企领驳幅长袖外套</span>
+                	</a>
+                	<h4>￥110.00</h4>
+                </li>
+                <li>
+                	<a href="">
+                		<img src="images/565967baNfb207441.jpg" alt="">
+              			<span>马克华菲长袖衬衫 加厚男士修身衬衫</span>
+                	</a>
+                	<h4>￥188.00</h4>
+                </li>
+		<li>
+			<a href="">
+				<img src="images/56930b79Nef40ec1c.jpg" alt="">
+				<span>哈吉斯 春装新品男装休闲裤</span>
+			</a>
+			<h4>￥773.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/55ff7015Nb44ae966.jpg" alt="">
+				<span>杉杉男装 免烫商务防皱 韩版修身西裤</span>
+			</a>
+			<h4>￥169.00</h4>
+		</li>
+		<li>
+			<a href="">
+    				<img src="images/56b1b852Ne05b9904.jpg" alt="">
+				<span>佐丹奴休闲裤男简约弹力棉纯色卡其裤</span>
+			</a>
+			<h4>￥99.00</h4>
+		</li>
+		<li>
+			<a href="">
+				<img src="images/5608cbb1N7922e275.jpg" alt="">
+				<span>凡客80免烫衬衫 小方领 蓝色</span>
+			</a>
+			<h4>￥149.00</h4>
+		</li>
+	</ul>
+</div>
+<div class="fz_bottom">
+	<ul>
+		<li><a href=""><img src="images/56c476e4N60dcd656.jpg" alt=""></a></li>
+		<li><a href=""><img src="images/56c476f1N2aed51f4.jpg" alt=""></a></li>
+		<li><a href=""><img src="images/56c476fdN8e9bb237.jpg" alt=""></a></li>
+		<li><a href=""><img src="images/56c4770bNa5ae4516.jpg" alt=""></a></li>
+	</ul>
+</div>

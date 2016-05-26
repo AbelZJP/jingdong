@@ -1,0 +1,68 @@
+﻿<div class="fz_Top">
+	<ul>
+		<li>
+			<a href="">
+ 			<img src="images/56c29397N529bdfae.jpg" alt="">
+ 			<span>Vero Moda棉弹针织面料包肩七分袖T恤</span>
+ 		</a>
+ 		<h4>￥299.00</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/56a1d0aeNa115530c.jpg" alt="">
+ 			<span>斯尔丽  冬装上新抽象图案针织衫</span>
+ 		</a>
+ 		<h4>￥299.00</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/560903f2N2736ff41.jpg" alt="">
+ 			<span>伊芙丽  黑色中长款马夹女无袖女马甲</span>
+ 		</a>
+ 		<h4>￥299.00</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/56c28a64N473f433a.jpg" alt="">
+ 			<span>Lily 女装绣花收腰网纱长袖连衣裙</span>
+ 		</a>
+ 		<h4>￥349.00</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/565e9da5N43735665.jpg" alt="">
+ 			<span>OSA欧莎 冬假两件韩版套头针织衫</span>
+ 		</a>
+ 		<h4>￥169.00</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/5684e349N800f99fd.jpg" alt="">
+ 			<span>哥弟女装 经典面料九分小脚正装裤</span>
+ 		</a>
+ 		<h4>￥300.00</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/56444a13Nd095655c.jpg" alt="">
+ 			<span>七格格  茧型大翻领宽松廓形呢大衣外套</span>
+ 		</a>
+ 		<h4>￥329.90</h4>
+ 	</li>
+ 	<li>
+ 		<a href="">
+ 			<img src="images/56c2e73eNbc66e858.jpg" alt="">
+ 			<span>初语  女装 V领毛衣开衫针织衫</span>
+ 		</a>
+ 		<h4>￥199.00</h4>
+ 	</li>
+ </ul>
+</div>
+<div class="fz_bottom">
+ 	<ul>
+  		<li><a href=""><img src="images/56c47763Nabe72c1d.jpg" alt=""></a></li>
+  		<li><a href=""><img src="images/56c4776fNb0d271dc.jpg" alt=""></a></li>
+  		<li><a href=""><img src="images/56c4777cN2d2fec33.jpg" alt=""></a></li>
+  		<li><a href=""><img src="images/56c47788N50c2a508.jpg" alt=""></a></li>
+ 	</ul>
+</div>
